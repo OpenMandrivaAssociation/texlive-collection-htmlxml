@@ -38,3 +38,12 @@ Packages to convert LaTeX to XML/HTML, and typset XML/SGML.
 %build
 
 %install
+
+
+%changelog
+* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
++ Revision: 780328
+- Update to latest release.
+- Import texlive-collection-htmlxml
+- Import texlive-collection-htmlxml
+

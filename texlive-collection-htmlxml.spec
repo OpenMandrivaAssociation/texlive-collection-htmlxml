@@ -1,4 +1,4 @@
-# revision 13822
+# revision 30307
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-collection-htmlxml
 Epoch:		1
-Version:	20120224
+Version:	20131013
 Release:	1
 Summary:	HTML/SGML/XML support
 Group:		Publishing
@@ -16,14 +16,13 @@ Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/collection-htmlxm
 BuildArch:	noarch
 BuildRequires:	texlive-tlpkg
 Requires(pre):	texlive-tlpkg
-Requires:	texlive-jadetex
-Requires:	texlive-passivetex
-Requires:	texlive-tex4ht
-Requires:	texlive-xmlplay
-Requires:	texlive-xmltex
 Requires:	texlive-collection-basic
 Requires:	texlive-collection-fontsrecommended
 Requires:	texlive-collection-latex
+Requires:	texlive-jadetex
+Requires:	texlive-passivetex
+Requires:	texlive-tex4ht
+Requires:	texlive-xmltex
 
 %description
 Packages to convert LaTeX to XML/HTML, and typset XML/SGML.
@@ -38,12 +37,3 @@ Packages to convert LaTeX to XML/HTML, and typset XML/SGML.
 %build
 
 %install
-
-
-%changelog
-* Fri Feb 24 2012 Paulo Andrade <pcpa@mandriva.com.br> 1:20120224-1
-+ Revision: 780328
-- Update to latest release.
-- Import texlive-collection-htmlxml
-- Import texlive-collection-htmlxml
-

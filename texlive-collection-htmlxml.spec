@@ -1,4 +1,4 @@
-# revision 30307
+# revision 33101
 # category Collection
 # catalog-ctan undef
 # catalog-date undef
@@ -6,8 +6,8 @@
 # catalog-version undef
 Name:		texlive-collection-htmlxml
 Epoch:		1
-Version:	20131013
-Release:	5
+Version:	20140318
+Release:	1
 Summary:	HTML/SGML/XML support
 Group:		Publishing
 URL:		http://tug.org/texlive
@@ -19,6 +19,7 @@ Requires(pre):	texlive-tlpkg
 Requires:	texlive-collection-basic
 Requires:	texlive-collection-fontsrecommended
 Requires:	texlive-collection-latex
+Requires:	texlive-classpack
 Requires:	texlive-jadetex
 Requires:	texlive-passivetex
 Requires:	texlive-tex4ht

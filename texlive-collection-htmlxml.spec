@@ -7,7 +7,7 @@
 Name:		texlive-collection-htmlxml
 Epoch:		1
 Version:	20140318
-Release:	4
+Release:	5
 Summary:	HTML/SGML/XML support
 Group:		Publishing
 URL:		http://tug.org/texlive

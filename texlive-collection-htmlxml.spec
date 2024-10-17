@@ -10,7 +10,7 @@ Version:	20140318
 Release:	8
 Summary:	HTML/SGML/XML support
 Group:		Publishing
-URL:		http://tug.org/texlive
+URL:		https://tug.org/texlive
 License:	http://www.tug.org/texlive/LICENSE.TL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/collection-htmlxml.tar.xz
 BuildArch:	noarch
